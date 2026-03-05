@@ -44,11 +44,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://x.com/dhivya_speaks">
+  <a href="https://x.com/Dhivya1010">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/the.limited.edition">
+  <a href="https://youtube.com/@dhivyacodes?si=ZlKq1qvrLqgEPbYf">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
